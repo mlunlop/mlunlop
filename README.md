@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 Im Mario Luna !</h1>
 
 <p align="left">
-  <a href="[https://linkedin.com/in/unsimpledev](https://www.linkedin.com/in/m-luna-lpez/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="[https://linkedin.com/in/m-luna-lpez/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href = "mailto:mario.luna.lpez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
 <p align="left"> 
